@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=osu!lazer (lt)
+Comment=osu!'s next-generation, open-source client!
+Type=Application
+Exec="@COMMAND@" %U
+Icon=@ICON@
+Terminal=false
+Categories=Game;
