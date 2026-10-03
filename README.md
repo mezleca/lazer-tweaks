@@ -9,5 +9,5 @@ git clone https://github.com/mezleca/lazer-tweaks
 
 # install (will symlink to $XDG_DATA_HOME/lazer-tweaks)
 # use --tachyon or --normal to change the release stream
-lazer-tweaks --install
+./lazer-tweaks.py --install
 ```
